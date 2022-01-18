@@ -1,5 +1,5 @@
 Neste curso inical de HTML5 da udemy aprendi a ultilizar na pratica 
-.Estruturas dae páginas web
+.Estruturas de páginas web
 .Cabeçalhos 
 .Parágrafos
 .Formatações de textos
